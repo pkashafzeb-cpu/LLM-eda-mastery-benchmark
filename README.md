@@ -32,6 +32,13 @@ The benchmark has been tested with multiple LLMs, including:
 - Claude
 - Chatgpt
 
+  
+## 📊 Benchmark Results
+
+The LLM EDA Mastery Test was evaluated across multiple language models.
+
+![Benchmark Results](Result/output.png)
+
 ## Technologies
 
 - Python
