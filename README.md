@@ -30,7 +30,7 @@ The benchmark has been tested with multiple LLMs, including:
 - Grok
 - Gemini
 - Claude
-- DeepSeek
+- Chatgpt
 
 ## Technologies
 
